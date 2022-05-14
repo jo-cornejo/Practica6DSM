@@ -1,0 +1,43 @@
+package code.diegohdez.githubapijava.Utils.Constants;
+
+public class Fields {
+    public static final String OWNER_LOGIN = "owner.login";
+    public static final String ID ="id";
+    public static final String LOGIN = "login";
+    public static final String REPO_NAME = "name";
+    public static final String OWNER = "owner";
+    public static final String STARS = "stars";
+    public static final String WATCHERS = "watchers";
+    public static final String FORKS = "forks";
+    public static final String SUBSCRIBERS = "subscribers";
+    public static final String OLD_FULL_NAME = "full_name";
+    public static final String OLD_CREATED_AT = "created_at";
+    public static final String OLD_PUSHED_AT = "pushed_at";
+    public static final String OLD_UPDATED_AT = "updated_at";
+    public static final String FULL_NAME = "fullName";
+    public static final String CREATED_AT = "createdAt";
+    public static final String PUSHED_AT = "pushedAt";
+    public static final String UPDATED_AT = "updatedAt";
+    public static final String MERGED_AT = "mergedAt";
+    public static final String REPOS = "repos";
+    public static final String TITLE = "title";
+    public static final String DESCRIPTION = "description";
+    public static final String STATE = "state";
+    public static final String NUMBER = "number";
+    public static final String USER = "user";
+    public static final String ASSIGNEE = "assignee";
+    public static final String CLOSED_AT = "closedAt";
+    public static final String ISSUES = "issues";
+    public static final String PULLS = "pulls";
+    public static final String PULL_INFO = "pullInfo";
+    public static final String PULL_STATE = "state";
+    public static final String BRANCH_NAME = "name";
+    public static final String BRANCHES = "branches";
+    public static final String AUTHOR = "author";
+    public static final String SHA = "sha";
+    public static final String COMMITS = "commits";
+    public static final String MESSAGE = "message";
+    public static final String DATE = "date";
+    public static final String COMMIT_INFO = "commitInfo";
+    public static final String AUTHOR_NAME = "name";
+}
